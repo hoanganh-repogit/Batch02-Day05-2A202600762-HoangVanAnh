@@ -12,13 +12,14 @@ Ghi nhanh:
 - **Khi dùng thật, điểm gãy xuất hiện ở đâu?** Khi mà yêu cầu những task vụ cao hơn nhue là vẽ dasboard, hoặc yêu cầu những thứ liên quan đến xử lý dữ liệu có cấu trúc, không có tính linh hoạt cao. 
 
 Evidence cần có:
-- Screenshot:
+
 ![Screenshot 1](../images/4f86a6a1799df8c3a18c3.jpg)
 ![Screenshot 2](../images/543387145828d97680391.jpg)
 ![Screenshot 3](../images/6438341eeb226a7c33334.jpg)
 ![Screenshot 4](../images/ac604e449178102649695.jpg)
 ![Screenshot 5](../images/e19233b5ec896dd734982.jpg)
 ![Screenshot 6](../images/faaafd8122bda3e3faac6.jpg)
+
 - Quote từ app/web/review: Moni
 - Prompt/input đã thử: Vẽ cho tôi 1 cái         
 - Hành vi quan sát được:  Không thể vẽ hình
